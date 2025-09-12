@@ -1,12 +1,12 @@
-# アプリケーション名
-- お問い合わせフォーム
+# お問い合わせフォーム
 
 ## 環境構築
 - Dockerのビルド
-   1.git clone リンク
-   2.docker-compose up -d
-   3.docker-compose exec app php artisan migrate
-   4.docker-compose exec app php artisan db:seed
+
+1. git clone リンク
+2. docker-compose up -d
+3. docker-compose exec app php artisan migrate
+4. docker-compose exec app php artisan db:seed
 
 ## 使用技術
 - Laravel 10.x
