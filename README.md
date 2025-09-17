@@ -15,7 +15,7 @@ Dockerのビルド
 - Docker, Docker Compose
 
 ## ER図
-<img width="918" height="332" alt="Image" src="https://github.com/user-attachments/assets/70635f27-39ef-49d8-8146-975536f05445" />
+<img width="918" height="332" alt="Image" src="https://github.com/user-attachments/assets/b993dc5a-d3f8-4128-a82c-0b4ecdab2094" />
 
 ## URL
 - 開発環境：http://localhost/
